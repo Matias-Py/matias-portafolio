@@ -253,3 +253,13 @@ p{
   background-color: #eef4ed;
   transition: 300ms;
 }
+#skills{
+  margin-bottom: 1em;
+}
+.skill{
+  background-color:#FF9505;
+  color: white;
+  font-weight: bolder;
+  width: auto;
+  padding: 0.3em 0.6em;
+}
