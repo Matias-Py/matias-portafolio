@@ -18,9 +18,15 @@ function App() {
               <h2><span id="fullstack">Full-Stack</span> developer</h2>
             </div>
             <div id="social">
-              <img className="redes" src={twitter} width="25px"/>
-              <img className="redes" src={linkedin} width="25px"/>
-              <img className="redes" src={github} width="25px"/>
+              <a href="https://twitter.com/Mbrrsv" target="_blank">
+                <img className="redes" src={twitter} width="25px"/>
+              </a>
+              <a href="https://www.linkedin.com/in/matias-gabriel-barrios-vazquez/" target="_blank">
+                <img className="redes" src={linkedin} width="25px"/>
+              </a>
+              <a href="https://github.com/Matias-Py" target="_blank">
+                <img className="redes" src={github} width="25px"/>
+              </a>
             </div>
           </div>
           <div id="bio">
@@ -43,31 +49,28 @@ function App() {
       </div>
       <div id="proyectos">
         <div className="proyecto">
-          <h4>PelisApp 📺</h4>
-          <button>
-            <a href="https://matias-py.github.io/PelisApp/" target ="_blank">Ver proyecto</a>
-          </button>
-          <button>
-            <a>Ver codigo del proyecto</a>
-          </button>
+          <a className="link-proyecto" href="https://guia-para-estudiantes.vercel.app/" target="_blank">
+            <div className="descripcion">
+              <h4>Plan de estudios interactivo 📚</h4>
+              <p>Es una página creada con react que se conecta a una API creada con node.js y express que devuelve todas las materias una carrera e información sobre cada materia </p>
+            </div>
+          </a>
         </div>
         <div className="proyecto">
-          <h4>PaisesApp 🌎</h4>
-          <button>
-            <a href="https://matias-py.github.io/Paises/" target="_blank">Ver proyecto</a>
-          </button>
-          <button>
-            <a>Ver codigo del proyecto</a>
-          </button>
+        <a className="link-proyecto" href="https://matias-py.github.io/Paises/" target="_blank">
+          <div className="descripcion">
+            <h4>PaisesApp 🌎</h4>
+            <p>Es una página creada con react que se conecta una API y devuelve información básica del país buscado por el usuario </p>
+          </div>
+        </a>
         </div>
         <div className="proyecto">
-          <h4>Horóscopo 🌌</h4>
-          <button>
-            <a href="https://matias-py.github.io/horoscopo/" target="_blank">Ver proyecto</a>
-          </button>
-          <button>
-            <a>Ver codigo del proyecto</a>
-          </button>
+        <a className="link-proyecto" href="https://matias-py.github.io/horoscopo/" target="_blank">
+          <div className="descripcion">
+            <h4>Horóscopo 🌌</h4>
+            <p>Una simple página sobre el horóscopo</p>
+          </div>
+        </a>
         </div>
       </div>
     </div>
