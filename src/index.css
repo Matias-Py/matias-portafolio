@@ -13,13 +13,18 @@ code {
     monospace;
 }
 footer{
+  font-weight: bolder;
   width: 100%;
-  background-color: black;
+  background-color: #FF9505;
   text-align: center;
-  color: #f2ecfb;
+  color: white;
   padding: 0.7em 0;
 }
 #root{
   width: 100%;
   background-color: #fff;
+}
+#footer-link{
+  color: #fff;
+  font-weight: bolder;
 }
