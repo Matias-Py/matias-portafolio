@@ -52,7 +52,7 @@ function App() {
           <a className="link-proyecto" href="https://guia-para-estudiantes.vercel.app/" target="_blank">
             <div className="descripcion">
               <h4>Plan de estudios interactivo 📚</h4>
-              <p>Es una página creada con react que se conecta a una API creada con node.js y express que devuelve todas las materias una carrera e información sobre cada materia </p>
+              <p>Es una página creada con react que se conecta a una API creada con node.js y express que devuelve todas las materias de una carrera e información sobre cada materia </p>
             </div>
           </a>
         </div>
