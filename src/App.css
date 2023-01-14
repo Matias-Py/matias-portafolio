@@ -90,6 +90,7 @@
     box-shadow: -2px 2px 5px 0px rgba(0,0,0,0.2);
     justify-self: center;
     padding: 0.2em 0;
+    cursor: pointer;
   }
   a{
     text-decoration: none;
