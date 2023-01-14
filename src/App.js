@@ -32,15 +32,15 @@ function App() {
           <div id="bio">
             <p>Hola👋, Soy estudiante de la licenciatura en gestión de tecnologías de la información y desarrollador web Full-Stack, me especializo en tecnologías javascript.</p>
             <h3>Skills ✨</h3>
-            <ul>
-              <li>Html</li>
-              <li>Css</li>
-              <li>Javascript</li>
-              <li>React</li>
-              <li>Node</li>
-              <li>MongoDB</li>
-              <li>Express</li>
-            </ul>
+            <div id="skills">
+              <button className="skill">Html</button>
+              <button className="skill">Css</button>
+              <button className="skill">Javascript</button>
+              <button className="skill">Node</button>
+              <button className="skill">React</button>
+              <button className="skill">MongoDB</button>
+              <button className="skill">Express</button>
+            </div>
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@ function App() {
           <a className="link-proyecto" href="https://guia-para-estudiantes.vercel.app/" target="_blank">
             <div className="descripcion">
               <h4>Plan de estudios interactivo 📚</h4>
-              <p>Es una página creada con react que se conecta a una API creada con node.js y express que devuelve todas las materias de una carrera e información sobre cada materia </p>
+              <p>Es una página creada con react que se conecta a una API creada con node.js y express que devuelve todas las materias una carrera e información sobre cada materia </p>
             </div>
           </a>
         </div>
