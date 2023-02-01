@@ -65,10 +65,10 @@ function App() {
         </a>
         </div>
         <div className="proyecto">
-        <a className="link-proyecto" href="https://matias-py.github.io/horoscopo/" target="_blank">
+        <a className="link-proyecto" href="https://horoscopo-rosy.vercel.app/" target="_blank">
           <div className="descripcion">
             <h4>Horóscopo 🌌</h4>
-            <p>Una simple página sobre el horóscopo</p>
+            <p>Una pagina creada con react que te devuelve el horóscopo </p>
           </div>
         </a>
         </div>
