@@ -72,6 +72,14 @@ function App() {
           </div>
         </a>
         </div>
+        <div className="proyecto">
+          <a className="link-proyecto" href="https://g2p.vercel.app/" target="_blank">
+            <div className="descripcion">
+              <h4>Empresa de construcciones 🏠</h4>
+              <p>Página web de una empresa de construcciones creada con React y con una integración con WhatsApp</p>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
   );
