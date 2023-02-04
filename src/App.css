@@ -220,7 +220,7 @@ p {
     }
     a {
         text-decoration: none;
-        font-weight: lighter
+        font-weight: 700
     }
     .redes {
         padding: 1em
@@ -246,7 +246,7 @@ a:hover {
     margin: 0 auto
 }
 p {
-    font-weight: lighter
+    font-weight: 100
 }
 .proyecto:hover {
     background-color: #eef4ed;
@@ -258,7 +258,10 @@ p {
 .skill {
     background-color: #ff9505;
     color: #fff;
-    font-weight: bolder;
+    font-weight: 700;
     width: auto;
     padding: .3em .6em
+}
+*{
+    font-family: 'Open Sans', sans-serif;
 }
