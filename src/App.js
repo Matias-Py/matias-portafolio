@@ -33,13 +33,14 @@ function App() {
             <p>Hola👋, Soy estudiante de la licenciatura en gestión de tecnologías de la información y desarrollador web Full-Stack, me especializo en tecnologías javascript.</p>
             <h3>Skills ✨</h3>
             <div id="skills">
-              <button className="skill">Html</button>
+              <button className="skill">Html5</button>
               <button className="skill">Css</button>
               <button className="skill">Javascript</button>
               <button className="skill">Node</button>
               <button className="skill">React</button>
               <button className="skill">MongoDB</button>
               <button className="skill">Express</button>
+              <button className="skill">Python</button>
             </div>
           </div>
         </div>
