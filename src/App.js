@@ -66,6 +66,14 @@ function App() {
         </a>
         </div>
         <div className="proyecto">
+        <a className="link-proyecto" href="https://the-simpsons-quotes-six.vercel.app/" target="_blank">
+          <div className="descripcion">
+            <h4>Simpsons quotes</h4>
+            <p>Es una página creada con react que se conecta una API y devuelve frases de los personajes de los Simpsons </p>
+          </div>
+        </a>
+        </div>
+        <div className="proyecto">
         <a className="link-proyecto" href="https://horoscopo-rosy.vercel.app/" target="_blank">
           <div className="descripcion">
             <h4>Horóscopo 🌌</h4>
