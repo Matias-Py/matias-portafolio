@@ -47,7 +47,7 @@ p {
         width: 40%;
         padding: .5em;
         border: none;
-        background-color: #ff9505;
+        background-color: #003049;
         color: #000;
         border-radius: 4px;
         margin: .2em
@@ -66,7 +66,7 @@ p {
         padding-top: 0
     }
     #fullstack {
-        color: #cc5803
+        color: #003049
     }
     #social {
         display: flex;
@@ -213,7 +213,7 @@ p {
         width: 70%;
         padding: .5em;
         border: none;
-        background-color: #ff9505;
+        background-color: #003049;
         color: #000;
         border-radius: 4px;
         margin: .2em
@@ -236,7 +236,7 @@ h4 {
     padding-top: .3em
 }
 #fullstack {
-    color: #ff9505
+    color: #003049
 }
 a:hover {
     cursor: pointer
@@ -256,7 +256,7 @@ p {
     margin-bottom: 1em
 }
 .skill {
-    background-color: #ff9505;
+    background-color: #003049;
     color: #fff;
     font-weight: 700;
     width: auto;
