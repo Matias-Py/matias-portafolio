@@ -30,7 +30,7 @@ function App() {
             </div>
           </div>
           <div id="bio">
-            <p>Hola!, soy Matias, un desarrollador web con experiencia en JavaScript, React, MongoDB, Node.js, Express, HTML y CSS. Este es mi espacio digital donde comparto mi trabajo y proyectos. Explora mi portafolio para conocer mis habilidades y enfoque en el desarrollo web. ¿Tienes alguna pregunta o proyecto en mente? ¡Conéctate y conversemos sobre cómo puedo ayudarte!</p>
+            <p>Hola👋!. Soy Matias, un desarrollador web con experiencia en JavaScript, React, MongoDB, Node.js, Express, HTML y CSS. Este es mi espacio digital donde comparto mi trabajo y proyectos. Explora mi portafolio para conocer mis habilidades y enfoque en el desarrollo web. ¿Tienes alguna pregunta o proyecto en mente? ¡Conéctate y conversemos sobre cómo puedo ayudarte!</p>
             <h3>Skills ✨</h3>
             <div id="skills">
               <button className="skill">Html5</button>
