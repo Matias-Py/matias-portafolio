@@ -46,7 +46,7 @@ function App() {
         </div>
       </div>
       <div id="portafolio-header">
-        <h3>Proyectos🚀</h3>
+        <h3>Proyectos</h3>
       </div>
       <div id="proyectos">
         <div className="proyecto">
