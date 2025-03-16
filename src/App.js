@@ -18,7 +18,7 @@ function App() {
               <h2><span id="fullstack">Full-Stack</span> developer</h2>
             </div>
             <div id="social">
-              <a href="https://twitter.com/mgbvpy" target="_blank">
+              <a href="https://twitter.com" target="_blank">
                 <img className="redes" src={twitter} width="25px"/>
               </a>
               <a href="https://www.linkedin.com/in/matias-gabriel-barrios-vazquez/" target="_blank">
