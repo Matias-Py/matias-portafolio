@@ -40,7 +40,7 @@ function App() {
               <button className="skill">React</button>
               <button className="skill">MongoDB</button>
               <button className="skill">Express</button>
-              <button className="skill">Python</button>
+              <button className="skill">PostgreSQL</button>
             </div>
           </div>
         </div>
