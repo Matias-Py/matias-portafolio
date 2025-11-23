@@ -30,7 +30,7 @@ function App() {
             </div>
           </div>
           <div id="bio">
-            <p>Hola👋! Soy Matias, desarrollador web con experiencia en JavaScript, React, MongoDB, Node.js, Express, HTML y CSS. Este es mi espacio digital donde comparto mi trabajo y proyectos. Explora mi portafolio para conocer mis habilidades y enfoque en el desarrollo web. ¿Tienes alguna pregunta o proyecto en mente? ¡Conéctate y conversemos sobre cómo puedo ayudarte!</p>
+            <p>Ingeniero de Software enfocado en el desarrollo de arquitecturas escalables y alto rendimiento. Especializado en el ecosistema JavaScript (Node.js/React) y diseño de bases de datos relacionales y no relacionales. Mi enfoque prioriza la seguridad, la optimización de recursos y la implementación de buenas prácticas de ingeniería como TDD y CI/CD. Orientado a la construcción de soluciones robustas que resuelven problemas de negocio complejos.</p>
             <h3>Habilidades</h3>
             <div id="skills">
               <button className="skill">Html5</button>
